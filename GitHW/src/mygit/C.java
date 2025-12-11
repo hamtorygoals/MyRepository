@@ -6,6 +6,8 @@ public class C {
 		System.out.println("C : second version on master (before marges)");
 		
 		A a = new A();
+		a.aliceFeature();
+		
 		B b = new B();
 
 	}
