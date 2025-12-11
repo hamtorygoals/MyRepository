@@ -3,7 +3,7 @@ package mygit;
 public class A {
 	
 	public A() {
-		System.out.println("A : first version on master");
+		System.out.println("A : modified by Bob branch");
 	}
 	
 	public void aliceFeature() {
