@@ -6,6 +6,8 @@ public class C {
 		System.out.println("C : first version on master");
 		
 		A a = new A();
+		a.aliceFeature();
+		
 		B b = new B();
 
 	}
